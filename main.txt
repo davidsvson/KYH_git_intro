@@ -1,3 +1,5 @@
-Början av min text är ganska kort 
+Början av min text är ganska kort men väldigt bra.
 
 Här kommer lite mer text, som får bli mitten av min text.
+
+Det finns även ett slut på texten.
