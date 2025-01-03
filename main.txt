@@ -1,2 +1,3 @@
 Början av min text är ganska kort 
-Här kommer lite mer text som får bli mitten av min text.
+
+Här kommer lite mer text, som får bli mitten av min text.
